@@ -1,4 +1,20 @@
 ---
 label: hhhhhhhh
 hide_body: false
-fields: []
+fields:
+- name: hh
+  type: text
+  config:
+    required: false
+  label: hh
+  description: jj
+- name: jjjjjjjj
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: jjjjjjjj
+  description: mm
